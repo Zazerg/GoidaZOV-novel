@@ -15,7 +15,7 @@
 define config.name = _("Калькулятор")
 
 
-define config.rollback_enabled = False
+## define config.rollback_enabled = False
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
