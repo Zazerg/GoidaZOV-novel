@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "7e2a5c32f8a5487f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fcf97b3fa0276b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa06c6cc8aeab177",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Story/Canvases/story_map.canvas",
+                "viewState": {
+                  "x": 3803,
+                  "y": -60,
+                  "zoom": -2.950286951227531
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "story_map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3fa287b12bf72d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "618dc38775f90d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ccb68c40cbc3dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f62e7a034c53615",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f429bca0ef6ba75e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f4543707230a3d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b493a13f6aa897f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d53c44e5b0cdf32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Story/Scenes/Ch_04_Island/island_rooms/Z_room.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Z_room"
+            }
+          },
+          {
+            "id": "7cde3269721181df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Story/Scenes/Ch_04_Island/island_rooms/Z_room.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Z_room"
+            }
+          },
+          {
+            "id": "ce1276d53bb3c1d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed6610db72271914",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cf55e8ea5fb12da3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Story/Scenes/Ch_04_Island/island_rooms/Z_room.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Z_room"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fa06c6cc8aeab177",
+  "lastOpenFiles": [
+    "Unfinished.md",
+    "Story/Canvases/story_map.canvas",
+    "Story/Scenes/Ch_02_SVO/l_kyiv.md",
+    "Story/Endings/ch03/ending_trump_nuke.md",
+    "Story/Scenes/Ch_04_Island/island_rooms/fire_exit.md",
+    "Story/Endings/ch02/ending_svo_bad.md",
+    "Story/Scenes/Ch_04_Island/island_rooms/main_exit.md",
+    "Story/Scenes/Ch_04_Island/island_rooms/massage_room.md",
+    "Story/Scenes/Ch_04_Island/island_rooms/party_room.md",
+    "Story/Scenes/Ch_04_Island/island_rooms/Z_room.md",
+    "Story/Scenes/Ch_04_Island/island_entry_party_calc/eps_isalnd_slave.md",
+    "Story/Endings/ch04/ending_trump_island_bad.md",
+    "Story/Scenes/Ch_03_America/igra_biden_win.md",
+    "Story/Endings/ch01/ending_bad_01.md",
+    "Story/Endings/ch04/ending_island_ban.md",
+    "Story/Endings/ch03/ending_trump_pidor.md",
+    "Story/Endings/ch04",
+    "Story/Endings/ch04/ending_trump_island_good.md",
+    "Story/Scenes/Ch_04_Island/island_endings/trump_on_island.md",
+    "Story/Scenes/Ch_04_Island/island_hub/mp.md",
+    "Story/Scenes/Ch_04_Island/island_entry_party_calc/no_party.md",
+    "Story/Scenes/Ch_04_Island/island_entry_party_calc/eps_island.md",
+    "Story/Scenes/Ch_04_Island/island_entry_party_calc/calc.md",
+    "Story/Scenes/Ch_04_Island/island_endings",
+    "Story/Scenes/Ch_04_Island/island_rooms",
+    "Story/Scenes/Ch_04_Island/island_rooms.md",
+    "Story/Scenes/Ch_04_Island/island_hub",
+    "Story/Scenes/Ch_04_Island/island_entry_party_calc",
+    "Story/Endings/ch03/ending_trump_eblan.md",
+    "Story/Endings/ch03",
+    "Story/Scenes/Ch_01_Prologue/ch01_moscow.md",
+    "Story/Endings/ch02",
+    "Story/Endings/ch01",
+    "Story/Scenes/Ch_02_SVO/dep.md",
+    "Story/Scenes/Ch_04_Island",
+    "Story/Scenes/Ch_03_America"
+  ]
+}
