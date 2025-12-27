@@ -1,7 +1,7 @@
 label mp:
     "Выбор куда пойти"
     menu:
-        "Комната для массажа" if map_avail_massage:
+        "Комната для массажа" if island_avail["massage"]:
             jump massage_room
         "Главный выход":
             jump main_exit
@@ -9,5 +9,5 @@ label mp:
             jump fire_exit
         "Комната, помеченная как Z":
             jump Z_room
-        "Зал для вечеринок":
+        "Зал для вечеринок" if island_avail["party_room"]:
             jump party_room
